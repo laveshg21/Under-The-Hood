@@ -5,7 +5,7 @@ _**Mentor**: Aditya Tanwar, Akhil Aggarwal_
 
 The project was conducted in 4 phases represented on the timeline :
 
-![TIMELINE](./src/timeline.png)
+![TIMELINE](./public/timeline.png)
 
 Topics covered in the four phase were:
 
@@ -25,7 +25,7 @@ Topics covered in the four phase were:
    - GTKWave for Graphs
    - FSM and implementation
 
-![PHASE 2](./src/phase2.png)
+![PHASE 2](./public/phase2.png)
 
 3. **Assembly Languages & MIPS** -
 
@@ -33,7 +33,7 @@ Topics covered in the four phase were:
    - Five State Abstracgt FSM Model of an ISA
    - Assembly Language using MIPS ISA
   
-![PHASE 3](./src/phase3.png)
+![PHASE 3](./public/phase3.png)
 
 1. **Making Game using Verilog & MIPS** -
    - Unbeatable TicTacToe
@@ -43,7 +43,7 @@ Topics covered in the four phase were:
 
 ### IMPLEMENTATION PHASE:
 
-![PROJECTS](./src/implementation.png)
+![PROJECTS](./public/implementation.png)
 
 # Unbeatable Tic-Tac-Toe Game
 ### Written by team: [QTSIMP](https://github.com/laveshg21/UnderTheHood-210562/blob/3efe375d9768d826467191cc08d2b1a1dbe52b72/Teams/qtsimp/README.md)
@@ -63,10 +63,10 @@ User always has the first turn. And the user can continue his turn by entering t
 > 7 8 9 <br/>
 
 At the end, the game tells who won. Interface (in MIPS) is shown below:
-![MIPS](./src/ttt-mips.png)
+![MIPS](./public/ttt-mips.png)
 
-I also implemented the **Mini-Max Algorithm** to code the **Tic-Tac-Toe** in **C++ Programming language**. The interface for C++ program is shown below:
-![CPP](./src/ttt-cpp.png)
+I also implemented the **Mini-Max Algorithm** to code the **Tic-Tac-Toe** in **C++ as well as JAVA Programming language**. The interface for C++ program is shown below:
+![C++](./public/ttt-cpp.png)
 
 ---
 
